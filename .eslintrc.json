@@ -4,5 +4,9 @@
     "next/typescript",
     "standard",
     "plugin:tailwindcss/recommended"
-  ]
+  ],
+  "rules": {
+    "comma-dangle": [2, "always-multiline"]
+  },
+  "trailingComma": "all"
 }
