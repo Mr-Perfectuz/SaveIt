@@ -30,7 +30,6 @@ export const sendEmailOTP = async ({ email }: { email: string }) => {
 
   try {
     const session = await account.createEmailToken(ID.unique(), email);
-
     return session.userId;
   } catch (error) {
     handleError(error, 'Failed to send email OTP');
