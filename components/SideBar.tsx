@@ -6,12 +6,18 @@ const SideBar = () => {
   return (
     <aside className='sidebar'>
       <Link href='/'>
-        <Image
-          src='/assets/icons/logo.jpg'
-          alt='logo'
-          width={160}
-          height={50}
-        />
+        <div className='flex align-center gap-3  text-brand-100 '>
+          <Image
+            src='/assets/icons/logo_bg.svg'
+            alt='logo'
+            width={84}
+            height={82}
+            className='hidden h-auto lg:block brand-100'
+          />
+          <div className='h1 text-brand-100 font-bold mt-auto mb-auto'>
+            SaveIt
+          </div>
+        </div>
       </Link>
     </aside>
   );
