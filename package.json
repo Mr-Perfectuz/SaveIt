@@ -19,6 +19,7 @@
     "@radix-ui/react-label": "^2.1.0",
     "@radix-ui/react-separator": "^1.1.0",
     "@radix-ui/react-slot": "^1.1.0",
+    "@radix-ui/react-toast": "^1.2.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "input-otp": "^1.4.1",
@@ -30,7 +31,8 @@
     "react-dropzone": "^14.3.5",
     "react-hook-form": "^7.53.2",
     "tailwind-merge": "^2.5.4",
-    "zod": "^3.23.8"
+    "zod": "^3.23.8",
+    "fs": "^0.0.2"
   },
   "devDependencies": {
     "@types/node": "^20",
