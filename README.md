@@ -365,3 +365,8 @@ declare interface ShareInputProps {
 }
 ```
 
+
+## Show Your Support
+
+If you find these projects helpful or interesting, please consider starring the repository. It's a simple gesture that helps to boost the visibility of the project and show appreciation for the effort put into creating it.
+
