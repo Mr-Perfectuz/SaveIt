@@ -6,6 +6,7 @@
     "plugin:tailwindcss/recommended"
   ],
   "rules": {
+    "no-undef": "off",
     "comma-dangle": [2, "always-multiline"]
   },
   "trailingComma": "all"
