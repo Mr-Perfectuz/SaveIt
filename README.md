@@ -365,7 +365,8 @@ declare interface ShareInputProps {
 }
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+</details>
 
 
 ## Show Your Support
