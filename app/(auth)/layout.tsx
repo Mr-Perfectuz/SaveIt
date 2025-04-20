@@ -15,7 +15,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
               className="h-auto"
             />
             <div className="h1 text-white font-bold mt-auto mb-auto">
-              SaveIt
+              Test
             </div>
           </div>
 
